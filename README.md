@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @HelenaCanever
-- :microscope: I'm a cell biologist turned data scientist with a passion for image analysis.
-- :computer: Here you will find my macros for ImageJ/FIJI image analysis and data analysis projects. 
+- 🔬 I'm a cell biologist turned data scientist with a passion for image analysis.
+- 💻 Here you will find my macros for ImageJ/FIJI image analysis and my data analysis and Python projects. 
 - 📫 How to reach me: helena.canever@gmail.com
-
-
