@@ -1,5 +1,5 @@
 👋 Hi, I’m @HelenaCanever\
-🔬 I'm a Data Scientist with a background in biology\
-💻 Here you will find my macros for ImageJ/FIJI image analysis and my data analysis and Python projects\
+🔬 I'm a budding Data Scientist with a background in biology\
+💻 Here you can find my macros for ImageJ/FIJI image analysis but alsom my most recent data analysis and machine learnign projects\
 📫 How to reach me: helena.canever@gmail.com\
 Happy browsing!
