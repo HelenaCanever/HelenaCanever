@@ -1,4 +1,4 @@
-👋 Hi, I’m @HelenaCanever\
+👋 Hi, I’m Helena\
 🔬 I'm a Data Scientist with a background in biology\
 💻 Here you can find my most recent data analysis and machine learnign projects and a couple of Streamlit apps\
 📫 How to reach me: helena.canever@gmail.com\
